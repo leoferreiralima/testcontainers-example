@@ -7,8 +7,7 @@ Além disso, é possível utilizar o Testcontainer para iniciar o ambiente de de
 
 Este repositório é um exemplo de utilização do Testcontainer com Spring Boot e MongoDB.
 
-Leia o meu post sobre esse tema: [Testes de integração com Spring Boot e TestContainers](https://www.leoferreira.dev/blog/testes-integração-com-spring-boot-e-testcontainers?utm_source=github&utm_medium=repo&utm_campaign=blog&utm_id=linkdin-posts&utm_term=testes-integra%C3%A7%C3%A3o-com-spring-boot-e-testcontainers)
----------------------------------------------------------------------------------------------
+**Leia o meu post sobre esse tema: [Testes de integração com Spring Boot e TestContainers](https://www.leoferreira.dev/blog/testes-integração-com-spring-boot-e-testcontainers?utm_source=github&utm_medium=repo&utm_campaign=blog&utm_id=linkdin-posts&utm_term=testes-integra%C3%A7%C3%A3o-com-spring-boot-e-testcontainers)**
 
 ## Requisitos
 
@@ -31,3 +30,7 @@ Leia o meu post sobre esse tema: [Testes de integração com Spring Boot e TestC
    ```bash
     ./gradlew bootTestRun
     ```
+
+## License
+
+[MIT](LICENSE)
